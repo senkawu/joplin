@@ -2306,7 +2306,7 @@ msgstr "自动配对花括号、圆括号、引号等。"
 
 #: ReactNativeClient/lib/models/Setting.js:354
 msgid "Use CodeMirror as the code editor (WARNING: BETA)."
-msgstr ""
+msgstr "使用CodeMirror作为代码编辑器（警告：测试版）."
 
 #: ReactNativeClient/lib/models/Setting.js:356
 #: ReactNativeClient/lib/models/Setting.js:374
